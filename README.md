@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G-O-Ded
-- 👀 I’m interested in ... Programming and tech related stuff
-- 🌱 I’m currently learning ...Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...Open source and all other projects which interests me 
+- 👀 I’m interested in Programming and tech related stuff
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on open source projects and content creators
 - 📫 How to reach me ... aliallu3xa@gmail.com
 
 <!---
