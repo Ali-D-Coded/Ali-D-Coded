@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G-O-Ded
+- 👋 Hi, I’m Ali
 - 👀 I’m interested in Programming and tech related stuff
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on open source projects and content creators
