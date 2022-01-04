@@ -1,12 +1,14 @@
 
  
-<h1 align="center"> Hi 👋, I'm Ali Afthab</h1>
+<h1 align="center"> Hi there!👋, I'm Ali Afthab</h1>
 
 > ___<p align="center">A passionate web developer without a college degree 😼. I love learning new technologies and now it has become basically one of my favorite hobbies 😆.</p>___
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-o-ded&label=Profile%20views&color=0e75b6&style=flat" alt="g-o-ded" /> </p>
 
 <p align="left"> <a href="https://twitter.com/3xacreations" target="blank"><img src="https://img.shields.io/twitter/follow/3xacreations?logo=twitter&style=for-the-badge" alt="3xacreations" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Everything and.... yeah, Web3 of course 😉**
 
