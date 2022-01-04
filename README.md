@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/3xacreations" target="blank"><img src="https://img.shields.io/twitter/follow/3xacreations?logo=twitter&style=for-the-badge" alt="3xacreations" /></a> </p>
 
-
+<img align="right" src="programmer.gif" alt="gif" height="250">
 
 - 🌱 I’m currently learning **Everything and.... yeah, Web3 of course 😉**
 
