@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aliallu3xa@gmail.com**
 
-- ⚡ Fun fact **I cannot touch my nose with my tongue**
+- ⚡ Fun fact **I'm an Otaku😼**
 
 <br />
  
