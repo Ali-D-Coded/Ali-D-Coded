@@ -1,4 +1,4 @@
-
+<img align="center" src="hologram.jpg" alt="hologram picture" height="300" width="100%">
  
 <h1 align="center"> Hi there!👋, I'm Ali Afthab</h1>
 
