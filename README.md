@@ -10,7 +10,7 @@
 
 <img align="right" src="programmer.gif" alt="gif" height="250">
 
-- 🌱 I’m currently learning **Everything and.... yeah, Web3 of course 😉**
+- 🌱 I’m currently learning **Everything and....😉**
 
 - 👯 I’m looking to collaborate on **Open source projects and other content creators**
 
